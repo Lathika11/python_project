@@ -4,14 +4,14 @@ The goal of this project is to analyze delivery time based on factors like dista
 Python
 Pandas
 Matplotlib
-Seaborn \n
+Seaborn 
 📁 Dataset
 We used a small dataset of 20 delivery records with the following columns:
 Distance (km)
 Delivery Time (minutes)
 Vehicle Type
 Traffic Level
-Weather\n
+Weather
 Key Insights
 Delivery time increases as distance increases
 Bikes are generally faster than cars and scooters
